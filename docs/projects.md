@@ -4,49 +4,75 @@ This page contains some of my educational projects completed during the Introduc
 
 ## Laboratory Work 1 — Docker Basics
 
-In this laboratory work, I learned the basics of Docker.
+In this laboratory work, I learned the basics of Docker and containerization.
 
-Main tasks included:
+### Technologies
 
-- Installing Docker
-- Running the `hello-world` container
-- Launching an Nginx web server
-- Working with Docker images
-- Managing containers
-- Using Docker volumes
+- Docker
+- Nginx
+- Ubuntu
+- Docker Volumes
+
+### Main Tasks
+
+- Installed Docker
+- Ran the `hello-world` container
+- Launched an Nginx web server
+- Managed Docker images and containers
+- Worked with Docker volumes
 
 Example command:
 
 ```bash
 docker run -d -p 8080:80 --name web-server nginx:alpine
+```
 
-Теперь:
+[View laboratory works on GitHub](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-1-kuhi_a)
 
-```bash
-cat > docs/contacts.md <<'EOF'
-# Contacts
+---
 
-You can find my educational projects and coursework online.
+## Laboratory Work 2 — Docker Flask Application
 
-## GitHub
+In this project, I created a simple web application using Python and Flask and packaged it into a Docker image.
 
-My projects are available on GitHub.
+### Technologies
 
-## ITMO University
+- Python
+- Flask
+- Docker
+- Dockerfile
 
-I am a student at **ITMO University**.
+The application displays:
 
-Official website:
+> Hello from Docker CI/CD!
 
-[ITMO University](https://itmo.ru/)
+Main stages of the project:
 
-## Course Information
+1. Created a Flask application.
+2. Added project dependencies.
+3. Created a Dockerfile.
+4. Built a Docker image.
+5. Ran the application inside a container.
 
-| Field | Information |
-| --- | --- |
-| University | ITMO University |
-| Course | Introduction in Web Technologies |
-| Academic Year | 2026/2027 |
+[View laboratory works on GitHub](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-1-kuhi_a)
 
-!!! note
-    This website was created for educational purposes.
+---
+
+## Personal Website — MkDocs
+
+This website was created as my coursework project.
+
+### Technologies
+
+- MkDocs
+- Material for MkDocs
+- Markdown
+- Git
+- GitHub Pages
+
+The project demonstrates the creation and publication of a static website with navigation, Markdown content, search, and the Material theme.
+
+[View coursework repository on GitHub](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-coursework-kuhi_a)
+
+!!! success "Result"
+    The website is published using GitHub Pages.
