@@ -1,0 +1,24 @@
+site_name: Kuhi Arina
+site_description: Personal website created for the Introduction in Web Technologies coursework
+site_author: Kuhi Arina
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Projects: projects.md
+  - Contacts: contacts.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
