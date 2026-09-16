@@ -1,26 +1,33 @@
-# Contacts
+# Контакты
 
-You can find my educational projects and coursework online.
+На этой странице представлены ссылки, связанные с моей учебной деятельностью и проектами.
 
 ## GitHub
 
-My projects are available on GitHub.
+Мои проекты размещаются на GitHub.
 
-## ITMO University
+[Перейти в мой профиль GitHub](https://github.com/arinakuhi)
 
-I am a student at **ITMO University**.
+## Курсовая работа
 
-Official website:
+Исходный код этого сайта доступен в репозитории:
 
-[ITMO University](https://itmo.ru/)
+[Открыть репозиторий курсовой работы](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-coursework-kuhi_a)
 
-## Course Information
+## Университет ИТМО
 
-| Field | Information |
+Я являюсь студенткой **Университета ИТМО**.
+
+[Официальный сайт Университета ИТМО](https://itmo.ru/)
+
+## Информация о курсе
+
+| Параметр | Информация |
 | --- | --- |
-| University | ITMO University |
-| Course | Introduction in Web Technologies |
-| Academic Year | 2026/2027 |
+| Университет | Университет ИТМО |
+| Дисциплина | Введение в веб-технологии |
+| Учебный год | 2026/2027 |
+| Формат проекта | Персональный сайт на MkDocs |
 
-!!! note
-    This website was created for educational purposes.
+!!! note "Информация"
+    Сайт создан в учебных целях в рамках выполнения курсовой работы.

@@ -1,37 +1,40 @@
-# About Me
+# Обо мне
 
-My name is **Arina Kuhi**. I am a student at **ITMO University**.
+## Основная информация
 
-I am studying web technologies and learning how modern websites and web applications are created.
+Меня зовут **Арина Кухи**. Я студентка **Университета ИТМО**.
 
-## My Interests
+В рамках обучения я изучаю веб-технологии, работу с системами контроля версий, контейнеризацию и инструменты для разработки современных веб-приложений.
 
-- Web development
-- Information technologies
-- Docker
-- Git and GitHub
-- Modern development tools
+## Мои интересы
 
-## Skills
+Мне интересны:
 
-### Development Tools
+- веб-разработка;
+- информационные технологии;
+- контейнеризация;
+- Git и GitHub;
+- современные инструменты разработки;
+- создание и публикация веб-сайтов.
 
-- Git
-- GitHub
-- Docker
-- Visual Studio Code
-- Terminal
+## Навыки
 
-### Web Technologies
+| Направление | Инструменты и технологии |
+| --- | --- |
+| Контроль версий | Git, GitHub |
+| Контейнеризация | Docker |
+| Веб-технологии | HTML, Markdown, MkDocs |
+| Разработка | Python, Flask |
+| Инструменты | Terminal, Visual Studio Code |
 
-- HTML
-- Markdown
-- MkDocs
+## Образование
 
-## Education
+**Университет ИТМО**
 
-**ITMO University**
+Дисциплина: **«Введение в веб-технологии»**
 
-Course: *Introduction in Web Technologies*
+Учебный год: **2026/2027**
 
-Academic year: **2026/2027**
+## Что я изучила в рамках курса
+
+В процессе выполнения лабораторных и курсовой работы я познакомилась с основами Docker, созданием контейнеров, разработкой простого веб-приложения, использованием Git и GitHub, а также созданием статического сайта с помощью MkDocs.

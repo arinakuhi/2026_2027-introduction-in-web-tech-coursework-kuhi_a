@@ -1,24 +1,40 @@
-site_name: Kuhi Arina
-site_description: Personal website created for the Introduction in Web Technologies coursework
-site_author: Kuhi Arina
+site_name: Арина Кухи
+site_description: Персональный сайт, созданный в рамках курсовой работы по дисциплине «Введение в веб-технологии»
+site_author: Арина Кухи
+site_url: https://arinakuhi.github.io/2026_2027-introduction-in-web-tech-coursework-kuhi_a/
+
+repo_url: https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-coursework-kuhi_a
+repo_name: arinakuhi/2026_2027-introduction-in-web-tech-coursework-kuhi_a
 
 theme:
   name: material
-  language: en
+  language: ru
   features:
     - navigation.tabs
     - navigation.top
     - search.suggest
     - search.highlight
 
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Переключить на тёмную тему
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Переключить на светлую тему
+
 nav:
-  - Home: index.md
-  - About Me: about.md
-  - Projects: projects.md
-  - Contacts: contacts.md
+  - Главная: index.md
+  - Обо мне: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
 
 markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
   - tables
+
+copyright: © 2026 Арина Кухи

@@ -1,30 +1,31 @@
-# Welcome to My Website
+# Добро пожаловать на мой сайт
 
-Hello! My name is **Arina Kuhi**.
+Здравствуйте! Меня зовут **Арина Кухи**.
 
-I am a student at ITMO University, and this website was created as part of the coursework for the **Introduction in Web Technologies** course.
+Я студентка **Университета ИТМО**, а этот сайт создан в рамках курсовой работы по дисциплине **«Введение в веб-технологии»**.
 
-## About This Website
+## О сайте
 
-Here you can find information about me, my university projects, and ways to contact me.
+На этом сайте можно найти информацию обо мне, моих учебных проектах и технологиях, которые я использовала в процессе обучения.
 
-The website was created using:
+Сайт разработан с использованием:
 
 - MkDocs
 - Material for MkDocs
 - Markdown
 - Git
 - GitHub
+- GitHub Pages
 
-!!! info "Coursework"
-    This website demonstrates the use of Markdown, MkDocs, navigation, themes, and static website generation.
+!!! info "Курсовая работа"
+    Этот сайт демонстрирует работу с Markdown, MkDocs, системой навигации, темами оформления, Git и публикацией статического сайта.
 
-## Navigation
+## Разделы сайта
 
-Use the navigation menu to explore the website.
-
-| Page | Description |
+| Раздел | Содержание |
 | --- | --- |
-| About Me | Information about me and my interests |
-| Projects | My educational projects |
-| Contacts | Contact and course information |
+| Обо мне | Информация обо мне, моих интересах и навыках |
+| Проекты | Учебные проекты и лабораторные работы |
+| Контакты | Ссылки и контактная информация |
+
+Для перехода между страницами используйте меню навигации в верхней части сайта.

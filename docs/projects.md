@@ -1,78 +1,86 @@
-# Projects
+# Проекты
 
-This page contains some of my educational projects completed during the Introduction in Web Technologies course.
+В этом разделе представлены некоторые учебные проекты, выполненные в рамках дисциплины **«Введение в веб-технологии»**.
 
-## Laboratory Work 1 — Docker Basics
+## Лабораторная работа № 1 — Основы Docker
 
-In this laboratory work, I learned the basics of Docker and containerization.
+В первой лабораторной работе я изучила основные возможности Docker и принципы работы с контейнерами.
 
-### Technologies
+### Выполненные задачи
 
-- Docker
-- Nginx
-- Ubuntu
-- Docker Volumes
+- установка Docker;
+- запуск контейнера `hello-world`;
+- запуск веб-сервера Nginx;
+- работа с Docker-образами;
+- создание и удаление контейнеров;
+- работа с Docker Volumes.
 
-### Main Tasks
-
-- Installed Docker
-- Ran the `hello-world` container
-- Launched an Nginx web server
-- Managed Docker images and containers
-- Worked with Docker volumes
-
-Example command:
+Пример команды запуска Nginx:
 
 ```bash
 docker run -d -p 8080:80 --name web-server nginx:alpine
 ```
 
-[View laboratory works on GitHub](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-1-kuhi_a)
+### Результат
+
+В результате лабораторной работы я научилась создавать и запускать контейнеры, управлять Docker-образами и использовать тома для постоянного хранения данных.
 
 ---
 
-## Laboratory Work 2 — Docker Flask Application
+## Лабораторная работа № 2 — Flask-приложение в Docker
 
-In this project, I created a simple web application using Python and Flask and packaged it into a Docker image.
+Во второй лабораторной работе было создано простое веб-приложение на Python с использованием Flask.
 
-### Technologies
+Приложение запускалось внутри Docker-контейнера.
+
+### Использованные технологии
 
 - Python
 - Flask
 - Docker
 - Dockerfile
+- requirements.txt
 
-The application displays:
+Приложение выводит сообщение:
 
 > Hello from Docker CI/CD!
 
-Main stages of the project:
+Основные этапы работы:
 
-1. Created a Flask application.
-2. Added project dependencies.
-3. Created a Dockerfile.
-4. Built a Docker image.
-5. Ran the application inside a container.
-
-[View laboratory works on GitHub](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-1-kuhi_a)
+1. Создание Flask-приложения.
+2. Добавление зависимостей проекта.
+3. Создание Dockerfile.
+4. Сборка Docker-образа.
+5. Запуск приложения в контейнере.
 
 ---
 
-## Personal Website — MkDocs
+## Курсовая работа — персональный сайт
 
-This website was created as my coursework project.
+Этот сайт является моей курсовой работой.
 
-### Technologies
+Для его создания использованы:
 
-- MkDocs
-- Material for MkDocs
-- Markdown
-- Git
-- GitHub Pages
+- MkDocs;
+- Material for MkDocs;
+- Markdown;
+- Git;
+- GitHub;
+- GitHub Pages.
 
-The project demonstrates the creation and publication of a static website with navigation, Markdown content, search, and the Material theme.
+В рамках проекта были реализованы:
 
-[View coursework repository on GitHub](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-coursework-kuhi_a)
+- несколько страниц сайта;
+- навигационное меню;
+- таблицы;
+- списки;
+- информационные блоки;
+- блоки программного кода;
+- светлая и тёмная темы;
+- поиск по сайту;
+- публикация сайта в интернете.
 
-!!! success "Result"
-    The website is published using GitHub Pages.
+[Открыть репозиторий курсовой работы](https://github.com/arinakuhi/2026_2027-introduction-in-web-tech-coursework-kuhi_a)
+
+!!! success "Результат"
+    Сайт успешно создан с помощью MkDocs и опубликован с использованием GitHub Pages.
